@@ -1,0 +1,20 @@
+From a21eb59cc4cebad726eb893c9e5dd42ca897baa8 Mon Sep 17 00:00:00 2001
+From: Marcio Schumann dos Santos <m.schumanndossantos@gdksoftware.com>
+Date: Thu, 20 Oct 2022 21:30:53 -0300
+Subject: [PATCH] 3th commit (develop)
+
+---
+ File.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/File.txt b/File.txt
+index a763fec..9baf2f7 100644
+--- a/File.txt
++++ b/File.txt
+@@ -1 +1,2 @@
+-This is the first line of this file (edited by GitHub on website)
++This is the tirst line of this file 
++This is the second line of this file (added on the develop branch)
+-- 
+2.36.0.windows.1
+
